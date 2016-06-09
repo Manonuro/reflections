@@ -17,6 +17,7 @@ organized? How would branches help?
 	With branches we can separate our main files intact while we are experimenting new featurs or different approaches. we can continue developing the main application and if nneded merge the completed and approved brancehes to master file.
 
 How do the diagrams help you visualize the branch structure?
+ 	I can see what branches are at which stage and also if there is any reacable/unreachable commmits. It can help on merging different branches. We can aslo can find out where each branch started and wat type of changes have been made to each one of them.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
