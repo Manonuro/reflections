@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    it will be useful when we want to save a backup for our repository that is
+    It will be useful when we want to save a backup for our repository that is
     not at risk of losing it if something happens to our computer. It is also
     making it possible to share it with any number of people we want and at
     their convenient time instead of being restricted by th number of people we
