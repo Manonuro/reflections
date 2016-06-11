@@ -26,7 +26,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    sending the changing by email or other communications tool and wait for verification and if everything was fixed through several back and forth correction, we can make the final changes.
+    Using Git and GitHub make it much easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
