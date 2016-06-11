@@ -5,17 +5,17 @@ local?
     not at risk of losing it if something happens to our computer. It is also
     making it possible to share it with any number of people we want and at
     their convenient time instead of being restricted by th number of people we
-    can share it or be able to coordiante with them.
+    can share it or be able to coordinate with them.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Because we want to keep a valid copy of working master commit in our repository and prevent it from unwanted changes without any checks or verification.
+    Because we want to keep a valid copy of working maser commit in our repository and prevent it from unwanted changes without any checks or verification.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Branch is to create a copy of a commit within a repository in which we can make changes without changing the contents of the master commit. Fork is producing a copy of a repository within GitHub. Clone is copying the repository between any different locations including GitHub or local machine.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
